@@ -10,7 +10,7 @@
     "dev": "node --watch app.js",
     "start": "node app.js"
   },
-  "author": "SANDIP DAS",
+  "author": "subodha007",
   "license": "ISC",
   "dependencies": {
     "cloudinary": "^1.41.3",
@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Codewith-Sandip/Staynest.git"
+    "url": "git+https://github.com/subodha007/Easy-stay.git"
   },
   "bugs": {
-    "url": "https://github.com/Codewith-Sandip/Staynest/issues"
+    "url": "https://github.com/subodha007/Easy-stay/issues"
   },
-  "homepage": "https://github.com/Codewith-Sandip/Staynest#readme"
+  "homepage": "https://github.com/subodha007/Easy-stay#readme"
 }

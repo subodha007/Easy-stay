@@ -5,7 +5,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen?logo=mongodb)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-Hi, I’m **Sandip Das** 👋  
+Hi, I’m **subodha007** 👋  
 
 This is my project **Staynest**, a full-stack rental platform that allows users to explore and manage rental properties such as homes, apartments, and vacation stays. Staynest provides a seamless experience for both guests and hosts.
 
@@ -54,7 +54,7 @@ Example of `.env` file:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Codewith-Sandip/Staynest.git
+   git clone https://github.com/subodha007/Easy-stay.git
 
 2. **Navigate into the project folder:**
    ```bash
