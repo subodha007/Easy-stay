@@ -1,0 +1,16 @@
+<% layout("layouts/boilerplate") %>
+<div class="row mt-5">
+    <h1 class="col-4 offset-4 signup-h1-color">Signup StayNest</h1>
+    <div class="col-4 offset-4 mt-3">
+        <form action="/signup" method="post" class="form-label main-color">
+            <label for="username">Username :</label>
+            <input type="text" name="username" id="username" class="form-control" required>
+            <label for="email" class="mt-2">Email :</label>
+            <input type="email" name="email" id="email" class="form-control" required>
+            <label for="password" class="mt-2">Password :</label>
+            <input type="password" name="password" id="password" class="form-control" required minlength="6">
+            <button class="btn btn-success mt-3 w-100">Sign Up</button>
+        </form>
+        <p class="mt-3 text-center">Already have an account? <a href="/login">Log In</a></p>
+    </div>
+</div>
